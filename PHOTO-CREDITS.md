@@ -16,3 +16,14 @@ Images are illustrative stock photographs, not photographs of the fictional offi
 service-tax-japan.jpg: custom generated illustrative photograph of fictional Japanese professionals, created using built-in image generation. Replaces the handshake image on the home page.
 
 service-tax-handshake.jpg: custom generated illustrative photograph; close-up of a handshake between a suit-clad accountant and a construction professional in light-blue workwear. Replaces service-tax-japan.jpg on the home page.
+
+## Column photographs
+
+- column-choose.jpg — Unsplash
+  https://images.unsplash.com/photo-1454165804606-c3d57bc86b40
+- column-funds.jpg — Unsplash
+  https://images.unsplash.com/photo-1579621970563-ebec7560ff3e
+- column-cost.jpg — Unsplash
+  https://images.unsplash.com/photo-1503387762-592deb58ef4e
+- column-incorporate.jpg — Unsplash
+  https://images.unsplash.com/photo-1541888946425-d81bb19240f5
